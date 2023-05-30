@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.blue-color_flats{
+    height: 12%;
+    background-color: #2B7AF1;
+    border-radius: 0px 0px 0px 10px;
+    width: 98%;
+}
+.flats_heading{
+    margin-top: 60px;
+}
+.heading-text-card{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 20px;
+    color: #333333;
+}
+.desription-card-flat{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 20px;
+    color: #333333;
+    
+}
+.price{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 20px;
+    color: #2B7AF1;
+}
+.card_flat{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 400px;
+    margin-right: 40px;
+    margin-top: 20px;
+
+}
+.adress{
+    margin-top: 15px;
+}
+.btn-flats{
+    width:170px;
+    height: 20px;
+    margin-top: 20px;
+}
+.text_block_flat{
+    margin-left: 20px;
+}
+.flat_cards_block{
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+/* .card_flat img{
+    width: 100%;
+} */
+.img-flats{
+    width: 100%;
+}
+
+.flats-margin{
+    margin-top: 120px;
+}

@@ -1,0 +1,50 @@
+.modal-desription-flat_block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-flat{
+    display: none;
+}
+.active-flat{
+    display: block;
+}
+.flat_block{
+    margin-top: 40px;
+}
+.images-low{
+    display: flex;
+}
+.modal-flats{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.equipment li{
+    list-style-image: url(icons/dots.svg);
+}
+
+.img-flat-size{
+    box-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+     
+ .equipment{
+    margin-top: 40px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+ }
+.media-equpment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
+}
+.thank-you_block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 44px;
+    height: 130px;
+}
